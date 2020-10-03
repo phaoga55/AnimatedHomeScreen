@@ -409,7 +409,7 @@ class App extends React.Component {
               }}
               source={require('./BluePlanet.png')}
               resizeMode={FastImage.resizeMode.contain}>
-              <Text>Stamp</Text>
+              <Text>Stampuuuuuuuuuuu</Text>
             </FastImage>
           </Animated.View>
         </TouchableOpacity>
